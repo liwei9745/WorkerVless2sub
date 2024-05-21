@@ -1,13 +1,10 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-15.165.49.161,8080,TRUE,ICN,Asia Pacific,Seoul,112 ms,11773 kB/s
 13.40.87.247,443,TRUE,LHR,Europe,London,198 ms,7099 kB/s
 54.194.162.247,443,TRUE,DUB,Europe,Dublin,210 ms,7025 kB/s
-35.177.209.223,8080,TRUE,LHR,Europe,London,197 ms,6730 kB/s
 13.57.182.91,443,TRUE,SJC,North America,San Jose,185 ms,6518 kB/s
 18.130.249.35,2096,TRUE,LHR,Europe,London,201 ms,6511 kB/s
 15.236.136.125,2087,TRUE,CDG,Europe,Paris,193 ms,6428 kB/s
 3.123.255.167,443,TRUE,FRA,Europe,Frankfurt,202 ms,6428 kB/s
-13.42.158.50,2095,TRUE,LHR,Europe,London,194 ms,6390 kB/s
 13.42.168.114,2053,TRUE,LHR,Europe,London,199 ms,6374 kB/s
 34.253.175.38,443,TRUE,DUB,Europe,Dublin,214 ms,6223 kB/s
 54.201.19.60,443,TRUE,SEA,North America,Seattle,210 ms,6180 kB/s
@@ -51,8 +48,6 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 13.51.132.60,443,TRUE,OSL,Europe,Oslo,199 ms,3017 kB/s
 52.56.151.100,8443,TRUE,LHR,Europe,London,199 ms,2898 kB/s
 13.36.138.236,2096,TRUE,CDG,Europe,Paris,195 ms,2895 kB/s
-13.40.87.247,8080,TRUE,LHR,Europe,London,196 ms,2745 kB/s
-13.41.222.94,8080,TRUE,LHR,Europe,London,198 ms,2660 kB/s
 13.60.91.143,443,TRUE,ARN,Europe,Stockholm,212 ms,2651 kB/s
 15.236.95.165,2053,TRUE,CDG,Europe,Paris,207 ms,2616 kB/s
 13.53.59.11,2096,TRUE,ARN,Europe,Stockholm,213 ms,2502 kB/s
@@ -94,15 +89,12 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 20.62.202.159,443,TRUE,IAD,North America,Ashburn,275 ms,1321 kB/s
 20.240.254.247,8443,TRUE,ARN,Europe,Stockholm,337 ms,1161 kB/s
 20.170.41.153,443,TRUE,FRA,Europe,Frankfurt,278 ms,1096 kB/s
-51.120.240.115,8080,TRUE,CPH,Europe,Copenhagen,305 ms,272 kB/s
 52.137.60.154,443,TRUE,AMS,Europe,Amsterdam,305 ms,51 kB/s
 4.255.56.137,443,TRUE,IAD,North America,Ashburn,278 ms,0 kB/s
 140.238.19.2,443,FALSE,NRT,Asia Pacific,Tokyo,71 ms,4096 kB/s
 168.138.47.238,8443,FALSE,KIX,Asia Pacific,Osaka,236 ms,3882 kB/s
 140.83.57.116,8443,FALSE,KIX,Asia Pacific,Osaka,220 ms,2791 kB/s
 146.56.133.140,2083,FALSE,NRT,Asia Pacific,Tokyo,74 ms,2280 kB/s
-130.162.61.18,80,FALSE,FRA,Europe,Frankfurt,276 ms,245 kB/s
-138.3.253.140,8080,FALSE,FRA,Europe,Frankfurt,253 ms,76 kB/s
 193.123.233.143,2096,FALSE,NRT,Asia Pacific,Tokyo,59 ms,0 kB/s
 47.76.159.146,2053,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,17517 kB/s
 47.243.42.219,2053,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,14154 kB/s
